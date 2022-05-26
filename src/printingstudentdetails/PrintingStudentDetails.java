@@ -26,6 +26,7 @@ public class PrintingStudentDetails {
                         System.out.println("Learn Github operations");
 			//commit and save
 			//pull operations learning
+			//fetch and merge operation
 		}
     }
     
