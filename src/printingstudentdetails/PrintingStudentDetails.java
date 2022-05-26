@@ -24,6 +24,7 @@ public class PrintingStudentDetails {
 		{
 			System.out.println(list[i].getname() + " " + list[i].getage());
                         System.out.println("Learn Github operations");
+			//pull operations
 		}
     }
     
